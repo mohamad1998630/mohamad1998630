@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mohamad1998630
-- 👀 I’m interested in signal processing, image processing, and machine learning
-- 🌱 I’m currently learning the basics of machine learning 
+- 👀 I’m interested in deep learning, computer vision, and NLP.  
 - 📫 How to reach me: feel free to email me at mohamad1998630@gmail.com
 
 <!---
